@@ -4,6 +4,14 @@ Automated market intelligence and web scraping system that collects laptop price
 
 **Tunis Business School: Web Scraping & Cybersecurity Project**
 
+## Project Type
+**Collaborative Academic Project** 
+
+## My Contribution
+Contributed to the development of a Python-based price intelligence solution involving web scraping, product data collection, data processing and price comparison.
+
+**Original repository:** [ons-guizani/Web-Data-Extractor](https://github.com/ons-guizani/Web-Data-Extractor)
+
 ## Problem
 
 - **Tab chaos:** consumers compare prices by switching between sites manually.
